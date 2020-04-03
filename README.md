@@ -30,8 +30,10 @@ Go to: [Hardware](https://github.com/Sheldonwl/rpi-travel-case/blob/master/docs/
 
 
 
-![Alt text](/docs/images/2.jpg?raw=true "Raspberry Pi Travel Case Cluster")
-![Alt text](/docs/images/1.jpg?raw=true "Raspberry Pi Travel Case Cluster")
+![Alt text](/docs/images/workinprogress-rpi-home-cluster.jpeg?raw=true "Raspberry Pi Travel Case Cluster")
+![Alt text](/docs/images/raw-rpi-home-cluster-combined-1.jpg?raw=true "Raspberry Pi Travel Case Cluster")
+![Alt text](/docs/images/raw-rpi-home-cluster-combined-2.jpg?raw=true "Raspberry Pi Travel Case Cluster")
+
 
 
 
